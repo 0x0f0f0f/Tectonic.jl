@@ -23,6 +23,81 @@ os = "windows"
     [[biber_bin.download]]
     sha256 = "831938bacb5c6a3de9894983b996e09450a7dd927afafda149a3204e2bcf39fd"
     url = "https://github.com/MichaelHatherly/Tectonic.jl/releases/download/2.14%2B1/biber-2.14+1-x86_64-w64-mingw32.tar.gz"
+[[biber_bin]]
+arch = "x86_64"
+git-tree-sha1 = "4effbf7494a71800274cb5c9d8da35bc0a887ace"
+os = "windows"
+
+    [[biber_bin.download]]
+    sha256 = "d0ad9abc131fb28178f022ca1af7eb32c61a9f2c1bd32b32ce719b227a0f0ffb"
+    url = "https://github.com/MichaelHatherly/Tectonic.jl/releases/download/2.12%2B1/biber-2.12+1-x86_64-w64-mingw32.tar.gz"
+[[biber_bin]]
+arch = "x86_64"
+git-tree-sha1 = "655675e42aa28dfa303e9162d4759aa307ab8df3"
+libc = "glibc"
+os = "linux"
+
+    [[biber_bin.download]]
+    sha256 = "797ab42e269b3b004f1ea4ce11283ffa323d33bb3386561cc300f6229f6e478f"
+    url = "https://github.com/MichaelHatherly/Tectonic.jl/releases/download/2.12%2B1/biber-2.12+1-x86_64-linux-gnu.tar.gz"
+[[biber_bin]]
+arch = "x86_64"
+git-tree-sha1 = "6e1141504a51bbaf1dd21864098bc34f15a9c9ca"
+os = "macos"
+
+    [[biber_bin.download]]
+    sha256 = "8078048ce313f5a8dee2ad9393c679f9b66486c639f82a607ff211d56f0faf04"
+    url = "https://github.com/MichaelHatherly/Tectonic.jl/releases/download/2.12%2B1/biber-2.12+1-x86_64-apple-darwin14.tar.gz"
+[[biber_bin]]
+arch = "x86_64"
+git-tree-sha1 = "b152b98b5391235fc6b653971aa9c4430bc2f407"
+os = "windows"
+
+    [[biber_bin.download]]
+    sha256 = "24c6c6a567d0d461fd0a9e0a009e59ff96c668fe6fc45889fd51beb51e67b003"
+    url = "https://github.com/MichaelHatherly/Tectonic.jl/releases/download/2.15%2B1/biber-2.15+1-x86_64-w64-mingw32.tar.gz"
+[[biber_bin]]
+arch = "x86_64"
+git-tree-sha1 = "c4c3456dba9997647d3637841bd51e7697d62d99"
+os = "macos"
+
+    [[biber_bin.download]]
+    sha256 = "b23e54ec473d98a58d7b90faee4aa65ceea14a335492f54229f0aae65629d738"
+    url = "https://github.com/MichaelHatherly/Tectonic.jl/releases/download/2.15%2B1/biber-2.15+1-x86_64-apple-darwin14.tar.gz"
+[[biber_bin]]
+arch = "x86_64"
+git-tree-sha1 = "62409728e5a57dfe47f948740e1d2a6b50530248"
+libc = "glibc"
+os = "linux"
+
+    [[biber_bin.download]]
+    sha256 = "2c0d3bc3d7d4a97424f14795a61b108f5efa828472c81b601ae52a0d6e96ea24"
+    url = "https://github.com/MichaelHatherly/Tectonic.jl/releases/download/2.15%2B1/biber-2.15+1-x86_64-linux-gnu.tar.gz"
+[[biber_bin]]
+arch = "x86_64"
+git-tree-sha1 = "928b1a8f7edd1bce5f2ff237de16fd03bc43e6da"
+os = "windows"
+
+    [[biber_bin.download]]
+    sha256 = "1d00080118dd575cf4eaacc5e35590fee93ea4c51dc022f964c7fe1f6d002c65"
+    url = "https://github.com/MichaelHatherly/Tectonic.jl/releases/download/2.11%2B1/biber-2.11+1-x86_64-w64-mingw32.tar.gz"
+[[biber_bin]]
+arch = "x86_64"
+git-tree-sha1 = "173ee0af0b6a1b36c42c49edf8ba2e80538fdf1b"
+os = "macos"
+
+    [[biber_bin.download]]
+    sha256 = "1794e22a1daadfb2b7d524ba2edf14396949d19cec7db88b2f072d24c8439cec"
+    url = "https://github.com/MichaelHatherly/Tectonic.jl/releases/download/2.11%2B1/biber-2.11+1-x86_64-apple-darwin14.tar.gz"
+[[biber_bin]]
+arch = "x86_64"
+git-tree-sha1 = "cd171db0dfa1d506221f60c0c747cfae8aba25ef"
+libc = "glibc"
+os = "linux"
+
+    [[biber_bin.download]]
+    sha256 = "5aa29c09145bc45d5855228a414c424994bb18ff97e0f5cdf675de9f70818b34"
+    url = "https://github.com/MichaelHatherly/Tectonic.jl/releases/download/2.11%2B1/biber-2.11+1-x86_64-linux-gnu.tar.gz"
 
 [[tectonic_bin]]
 arch = "x86_64"

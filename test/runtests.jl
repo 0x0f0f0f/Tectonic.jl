@@ -22,7 +22,7 @@ mktempdir() do dir
             end
             @testset "biber" begin
                 @test isfile(Biber.binary())
-                @test Biber.version() == v"2.14.0"
+                @test Biber.version() == v"2.11.0"
 
                 # Test that we can use biber with tectonic. A single run of
                 # tectonic is needed to create the initial temp files, which
